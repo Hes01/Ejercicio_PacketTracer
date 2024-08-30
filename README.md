@@ -24,4 +24,4 @@ Los dos archivos (con extensión .pkt) deberán adjuntarse en un correo que se e
 
 > Solución en la carpeta "Solución"
 
-![Elvis](/CISCO/img.jpeg)
+![Elvis](img.jpeg)
